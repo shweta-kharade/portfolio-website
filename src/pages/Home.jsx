@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 import avatar from "./avatar.png";
 
-import Experience from "../components/experience";
-import Ideas from "../components/ideas";
+import Experience from "../components/Experience";
+import Ideas from "../components/Ieas";
 
 const Home = ({ darkMode }) => {
   return (
